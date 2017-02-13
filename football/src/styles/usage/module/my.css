@@ -1,0 +1,19 @@
+.my-head {
+  width: 100%;
+  height: 44px;
+  background: #0dc441;
+  position: absolute;
+  top: 0;
+  left: 0; }
+  .my-head i {
+    position: absolute;
+    left: .5rem;
+    line-height: 44px;
+    color: #fff; }
+  .my-head h2 {
+    color: #fff;
+    font-size: 1.9rem;
+    text-align: center;
+    line-height: 44px; }
+
+/*# sourceMappingURL=my.css.map */
